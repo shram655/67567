@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetLayerSimpleTexture>
+	<Color>0x70000000</Color>
+	<BlendEffect>BLEND_EFFECT_ALPHABLND</BlendEffect>
+	<Scaling>true</Scaling>
+</WidgetLayerSimpleTexture>

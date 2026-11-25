@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>FrameRoot</Name>
+	<Priority>100</Priority>
+	<Children>
+		<Item href="ShadowTop.(WidgetPanel).xdb" />
+		<Item href="ShadowBottom.(WidgetPanel).xdb" />
+		<Item href="ShadowLeft.(WidgetPanel).xdb" />
+		<Item href="ShadowRight.(WidgetPanel).xdb" />
+		<Item href="BorderTop.(WidgetPanel).xdb" />
+		<Item href="BorderBottom.(WidgetPanel).xdb" />
+		<Item href="BorderLeft.(WidgetPanel).xdb" />
+		<Item href="BorderRight.(WidgetPanel).xdb" />
+		<Item href="InnerTop.(WidgetPanel).xdb" />
+		<Item href="InnerBottom.(WidgetPanel).xdb" />
+		<Item href="InnerLeft.(WidgetPanel).xdb" />
+		<Item href="InnerRight.(WidgetPanel).xdb" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<HighPos>24</HighPos>
+			<Size>206</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Pos>12</Pos>
+			<Size>112</Size>
+		</Y>
+	</Placement>
+	<Visible>false</Visible>
+	<TransparentInput>true</TransparentInput>
+	<PickChildrenOnly>true</PickChildrenOnly>
+</WidgetPanel>
